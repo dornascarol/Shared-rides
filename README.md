@@ -20,5 +20,12 @@
 <br>
 
 <div align="center">
-  
+  <img width="80%" src="https://github.com/dornascarol/Shared-rides/blob/master/img/Projeto.png?raw=true"/>
 </div>  
+<br>
+<br>
+
+<h4> Responsive: </h4>
+<div align="center">
+  <img width="80%" src="https://github.com/dornascarol/Shared-rides/blob/master/img/Projeto_responsive.png?raw=true"/>
+</div> 
